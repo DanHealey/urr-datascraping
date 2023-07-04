@@ -14,7 +14,8 @@ Dataset (Private): [Kaggle Link](https://www.kaggle.com/datasets/danhealey/senti
 Models:
 
 | Model | Validation Accuracy |
-| --------------- | ------- |
-| Median value    | 52%     |
-| Embedding+Dense | ~65%    | 
-| Embedding+LSTM  | ~72%    |
+| ---------------  | ------- |
+| Median value     | 52%     |
+| Embedding+Dense  | ~65%    | 
+| Embedding+LSTM   | ~72%    |
+| BERT Fine Tuning | ~80%    |
