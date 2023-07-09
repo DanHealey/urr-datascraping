@@ -2,7 +2,7 @@
 
 Project to classify sentiments of Reddit posts relating to Ukraine-Russia war. Reddit posts were scraped using Pushshift API and language models were used for classification.
 
-Dataset (Private): [Kaggle Link](https://www.kaggle.com/datasets/danhealey/sentiment-data-for-posts-relating-to-ru-ua-war)
+Dataset: [Kaggle Link](https://www.kaggle.com/datasets/danhealey/russia-ukraine-sentiment-analysis)
 
 | Classification | # Posts |
 | -------------- | ------- |
