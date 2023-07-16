@@ -19,3 +19,6 @@ Models:
 | Embedding+Dense  | ~65%    | 
 | Embedding+LSTM   | ~72%    |
 | BERT Fine Tuning | ~80%    |
+
+BERT-based Model Training Information:
+![](bert_training.png)

@@ -1,3 +1,5 @@
 # Project data
-*.csv
 .env
+
+# Saved model data
+my_model
