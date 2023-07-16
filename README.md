@@ -21,4 +21,5 @@ Models:
 | BERT Fine Tuning | ~80%    |
 
 BERT-based Model Training Information:
+
 ![](bert_training.png)
