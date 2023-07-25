@@ -15,7 +15,7 @@ Models:
 
 | Model | Validation Accuracy |
 | ---------------  | ------- |
-| Median value     | 52%     |
+| Mode value     | 52%     |
 | Embedding+Dense  | ~65%    | 
 | Embedding+LSTM   | ~72%    |
 | BERT Fine Tuning | ~80%    |
